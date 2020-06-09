@@ -2,7 +2,7 @@
 
 Developer - Saathvik Skanda
 
-Clone project from []().
+Clone project from [https://github.com/saathvik160/Contact-Book.git](https://github.com/saathvik160/Contact-Book.git).
 
 Once inside the project folder, give `npm install` to install the node modules.
 
